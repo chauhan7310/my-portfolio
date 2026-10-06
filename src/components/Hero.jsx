@@ -14,7 +14,7 @@ function Hero() {
           responsive and user-friendly web applications using React,
           Node.js, Express.js and MongoDB.
         </p>
-        <a href="6666Aryan chauhan (1)66666.pdf" download>
+        <a href="resume2.pdf" download>
         <button>Download Resume</button>
           </a>
       </div>
