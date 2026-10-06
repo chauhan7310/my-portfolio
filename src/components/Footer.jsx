@@ -3,7 +3,7 @@ function Footer() {
     <footer className="footer">
       <h3>Aryan Chauhan</h3>
       <p>© 2026 All Rights Reserved.</p>
-      <p>Designed & Developed by Aryan Chauhan</p>
+      <p>Designed by Aryan Chauhan</p>
     </footer>
   );
 }
